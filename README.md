@@ -13,7 +13,7 @@ lex and yacc code for compiler for c and c++
    
               
               
-****Learning Materials for Lex and YACC working***:
+***Learning Materials for Lex and YACC working***:
 
         http://www.tldp.org/HOWTO/Lex-YACC-HOWTO-1.html
                  
@@ -27,6 +27,7 @@ lex and yacc code for compiler for c and c++
   3)Now execute the command "./compile.sh filename" where filename is the name of lex and yacc file.
   
   4)Execute the output using "./a.out < in.txt" where in.txt is the input file to the lexer.
+  
 
  
  *****--------------FOLDERS AND THEIR COMPILATION TASKS PERFORMED-------------*****
