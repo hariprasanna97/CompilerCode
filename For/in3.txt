@@ -1,0 +1,7 @@
+do{
+	abc;
+	do{
+		efg;
+		
+	}while(j<n);
+}while(i<n);
