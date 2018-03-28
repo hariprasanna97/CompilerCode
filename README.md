@@ -7,16 +7,18 @@ lex and yacc code for compiler for c and c++
            sudo apt-get install flex)
    
    
-   2)bison  (sudo apt-get update
-             sudo apt-get install bison)
+   
+   2)bison(sudo apt-get update
+   
+          sudo apt-get install bison)
               
               
-**------Learning Materials for Lex and YACC working-------:
+***------Learning Materials for Lex and YACC working-------***:
 
         http://www.tldp.org/HOWTO/Lex-YACC-HOWTO-1.html
                  
 
-***COMPILATION STEPS****:
+***---COMPILATION STEPS----****:
 
   1)Traverse into the appropriate directory using cd command.
   
@@ -27,7 +29,7 @@ lex and yacc code for compiler for c and c++
   4)Execute the output using "./a.out < in.txt" where in.txt is the input file to the lexer.
 
  
- **********--------------FOLDERS AND THEIR COMPILATION TASKS PERFORMED-------------
+ **********--------------FOLDERS AND THEIR COMPILATION TASKS PERFORMED-------------*****
  
  
 ***IFELSE***:
