@@ -13,12 +13,12 @@ lex and yacc code for compiler for c and c++
    
               
               
-***------Learning Materials for Lex and YACC working-------***:
+****Learning Materials for Lex and YACC working***:
 
         http://www.tldp.org/HOWTO/Lex-YACC-HOWTO-1.html
                  
 
-***---COMPILATION STEPS----***:
+***COMPILATION STEPS***:
 
   1)Traverse into the appropriate directory using cd command.
   
