@@ -1,0 +1,20 @@
+{
+	int a=10,f;
+	float d,e;
+	{
+		char c='c';
+		float x;
+	}
+	a=d+e*e;
+	{
+		int y=13;
+		{
+			float p=0.5,q;
+			char h;
+		}
+		f=a+y/d;
+		int z[10][20],arr[50];
+		z[a][f]=f+d;
+	}
+	a=a+f;
+}
