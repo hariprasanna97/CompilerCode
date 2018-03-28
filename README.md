@@ -10,14 +10,17 @@ lex and yacc code for compiler for c and c++
              sudo apt-get install bison)
               
               
-***Learning Materials for Lex and YACC working****:
+***Learning Materials for Lex and YACC working***:
         http://www.tldp.org/HOWTO/Lex-YACC-HOWTO-1.html
                  
 
 ***COMPILATION STEPS****:
   1)Traverse into the appropriate directory using cd command.
+  
   2)Now execute the command "chmod +x ./compile.sh" to give permission for bash to execute the commands.
+  
   3)Now execute the command "./compile.sh filename" where filename is the name of lex and yacc file.
+  
   4)Execute the output using "./a.out < in.txt" where in.txt is the input file to the lexer.
 
  
